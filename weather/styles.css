@@ -1,0 +1,71 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+    color: #fff; 
+}
+.mainboxx {
+width: 250px;
+height: 400px;
+border: 1px solid black;
+background-image: url(bckgrnd.jpg);
+}
+
+.daydayday {
+display: flex;
+justify-content: center;
+color: white;
+margin-bottom: 0px;
+}
+
+.whitehrhr {
+color: white;
+width: 190px;
+display: flex;
+justify-content: center;
+margin-top: 0px;
+}
+
+.snowsnow {
+width: 80px;
+height: 80px;
+}
+
+.weatherimage {
+display: flex;
+justify-content: center;
+}
+
+.temptemp {
+color: white;
+text-align: center;
+}
+
+.maybesnowmaybenot {
+color:  white;
+text-align: left;
+margin-bottom: 15px;
+margin-left: 10px;
+}
+
+.humidityhumidity {
+color: white;
+text-align: left;
+margin-bottom: 15px;
+margin-top: 15px;
+margin-left: 10px;
+}
+
+.windwind {
+color: white;
+text-align: left;
+margin-bottom: 15px;
+margin-top: 15px;
+margin-left: 10px;
+}
+
+.feelfeeltemp{
+color: white;
+text-align: left;
+margin-bottom: 15px;
+margin-top: 15px;
+margin-left: 10px;
+}
